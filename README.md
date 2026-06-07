@@ -20,7 +20,8 @@ On the included sample dataset it achieves **100% detection rate** with **0% fal
 
 ## Demo
 
-![Dashboard](https://i.imgur.com/placeholder.png)
+<img width="1901" height="936" alt="image" src="https://github.com/user-attachments/assets/f485913f-6d08-4d2e-bdbb-3a29ec37c80f" />
+
 
 > The green line shows normal error rate over time. Red ✕ marks are anomalies automatically flagged by the ML model.
 
